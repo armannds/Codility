@@ -1,4 +1,4 @@
 Codility
 ========
 
-My solutions to the lesson task from Codility 
+My solutions to the lesson tasks from Codility 
